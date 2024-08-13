@@ -1,9 +1,11 @@
-import Passwordgenrator from "./pages/passwordgenrator";
+import CurrencyChange from "./pages/CurrencyChange";
+import TodoList from "./pages/TodoList";
 
 function App() {
   return (
     <>
-      <Passwordgenrator />
+      {/* <Passwordgenrator /> */}
+      <TodoList />
     </>
   );
 }
